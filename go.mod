@@ -1,3 +1,3 @@
-module example.com/m/v2
+module github.com/giladsher/speedrun.com-proxy
 
 go 1.18
